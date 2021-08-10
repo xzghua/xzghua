@@ -2,6 +2,9 @@
 
 ![xzghua 的 GitHub 统计](https://github-readme-stats.vercel.app/api?username=xzghua&show_icons=true&theme=radical )
 
+![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=xzghua&layout=compact&hide=html)
+
+
 <!--
 **xzghua/xzghua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
